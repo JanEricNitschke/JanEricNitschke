@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janericnitschke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=janericnitschke&layout=donut)](https://github.com/stats-organization/github-stats-extended)
 
 Repos and GH-Pages: https://janericnitschke.github.io/
 
